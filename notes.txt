@@ -4,3 +4,4 @@ git status
 git add <file>
 git commit -m "Your commit Message"
 get reset --soft HEAD~1
+get reset --Hart HEAD~1
