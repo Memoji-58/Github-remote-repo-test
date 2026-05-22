@@ -1,5 +1,5 @@
 comand Prompt
-git init für den start
+git init für den start // for initializing respository
 git status
 git add <file>
 git commit -m "Your commit Message"
