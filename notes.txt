@@ -1,0 +1,2 @@
+comand Prompt
+git init für den start
