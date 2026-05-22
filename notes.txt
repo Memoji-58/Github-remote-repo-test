@@ -3,3 +3,4 @@ git init für den start // for initializing respository
 git status
 git add <file>
 git commit -m "Your commit Message"
+get reset --soft HEAD~1
